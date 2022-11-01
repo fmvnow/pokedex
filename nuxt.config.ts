@@ -5,5 +5,6 @@ export default defineNuxtConfig({
     head: {
       title: 'Pokedex',
     }
-  }
+  },
+  modules: ['@nuxtjs/tailwindcss'],
 })
