@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <h1 class="text-9xl text-primary-50">Pokedex</h1>
+  <div class="container mx-auto mt-12">
+    <h1 class="font-bold text-5xl text-on-surface">Pokedex</h1>
   </div>
 </template>

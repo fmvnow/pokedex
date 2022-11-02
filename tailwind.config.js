@@ -1,23 +1,54 @@
 module.exports = {
-  darkMode: 'class',
+  darkMode: "class",
   theme: {
     extend: {
-      colors: {
-        inherit: "inherit",
-        current: "currentColor",
-        transparent: "transparent",
-        black: "#000",
-        white: "#fff",
-        neutral: {
-          50: "rgb(var(--primary-50) / <alpha-value>)",
-        },
-        primary: {
-          50: 'rgb(var(--primary-50) / <alpha-value>)',
-        }
+      textColor: {
+        "on-surface": "rgb(var(--on-surface) / <alpha-value>)",
+        "on-primary": "rgb(var(--on-primary) / <alpha-value>)",
+        "on-primary": "rgb(var(--on-primary) / <alpha-value>)",
+        "on-bug": "rgb(var(--on-bug) / <alpha-value>)",
+        "on-dark": "rgb(var(--on-dark) / <alpha-value>)",
+        "on-dragon": "rgb(var(--on-dragon) / <alpha-value>)",
+        "on-eletric": "rgb(var(--on-eletric) / <alpha-value>)",
+        "on-fairy": "rgb(var(--on-fairy) / <alpha-value>)",
+        "on-finghting": "rgb(var(--on-finghting) / <alpha-value>)",
+        "on-fire": "rgb(var(--on-fire) / <alpha-value>)",
+        "on-flying": "rgb(var(--on-flying) / <alpha-value>)",
+        "on-ghost": "rgb(var(--on-ghost) / <alpha-value>)",
+        "on-grass": "rgb(var(--on-grass) / <alpha-value>)",
+        "on-ground": "rgb(var(--on-ground) / <alpha-value>)",
+        "on-ice": "rgb(var(--on-ice) / <alpha-value>)",
+        "on-normal": "rgb(var(--on-normal) / <alpha-value>)",
+        "on-poison": "rgb(var(--on-poison) / <alpha-value>)",
+        "on-psychic": "rgb(var(--on-psychic) / <alpha-value>)",
+        "on-rock": "rgb(var(--on-rock) / <alpha-value>)",
+        "on-steel": "rgb(var(--on-steel) / <alpha-value>)",
+        "on-water": "rgb(var(--on-water) / <alpha-value>)",
       },
-      backgroundColor: {},
+      backgroundColor: {
+        surface: "rgb(var(--surface) / <alpha-value>)",
+        primary: "rgb(var(--primary) / <alpha-value>)",
+        normal: "rgb(var(--normal) / <alpha-value>)",
+        flying: "rgb(var(--flying) / <alpha-value>)",
+        grass: "rgb(var(--grass) / <alpha-value>)",
+        psychic: "rgb(var(--psychic) / <alpha-value>)",
+        dark: "rgb(var(--dark) / <alpha-value>)",
+        fire: "rgb(var(--fire) / <alpha-value>)",
+        finghting: "rgb(var(--finghting) / <alpha-value>)",
+        poison: "rgb(var(--poison) / <alpha-value>)",
+        ghost: "rgb(var(--ghost) / <alpha-value>)",
+        steel: "rgb(var(--steel) / <alpha-value>)",
+        fairy: "rgb(var(--fairy) / <alpha-value>)",
+        ground: "rgb(var(--ground) / <alpha-value>)",
+        rock: "rgb(var(--rock) / <alpha-value>)",
+        water: "rgb(var(--water) / <alpha-value>)",
+        eletric: "rgb(var(--eletric) / <alpha-value>)",
+        ice: "rgb(var(--ice) / <alpha-value>)",
+        bug: "rgb(var(--bug) / <alpha-value>)",
+        dragon: "rgb(var(--dragon) / <alpha-value>)",
+      },
       borderColor: {},
       boxShadowColor: {},
-    }
-  }
-}
+    },
+  },
+};
