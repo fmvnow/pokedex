@@ -1,0 +1,28 @@
+.dark {
+  --sys-color-background: var(--ref-pallete-neutral-0);
+  --sys-color-on-background: var(--ref-pallete-neutral-90);
+  --sys-color-surface: var(--ref-pallete-neutral-10);
+  --sys-color-on-surface: var(--ref-pallete-neutral-90);
+  --sys-color-on-surface-muted: var(--ref-pallete-neutral-60);
+  --sys-color-primary: var(--ref-pallete-primary-40);
+  --sys-color-on-primary: var(--ref-pallete-neutral-90);
+  --sys-color-on-colored: var(--ref-pallete-neutral-90);
+  --sys-color-dark: var(--ref-pallete-dark-40);
+  --sys-color-dragon: var(--ref-pallete-dragon-40);
+  --sys-color-eletric: var(--ref-pallete-eletric-40);
+  --sys-color-fairy: var(--ref-pallete-fairy-40);
+  --sys-color-fighting: var(--ref-pallete-fighting-40);
+  --sys-color-fire: var(--ref-pallete-fire-40);
+  --sys-color-flying: var(--ref-pallete-flying-40);
+  --sys-color-ghost: var(--ref-pallete-ghost-40);
+  --sys-color-grass: var(--ref-pallete-grass-40);
+  --sys-color-ground: var(--ref-pallete-ground-40);
+  --sys-color-ice: var(--ref-pallete-ice-40);
+  --sys-color-normal: var(--ref-pallete-normal-40);
+  --sys-color-poison: var(--ref-pallete-poison-40);
+  --sys-color-psychic: var(--ref-pallete-psychic-40);
+  --sys-color-rock: var(--ref-pallete-rock-40);
+  --sys-color-water: var(--ref-pallete-water-40);
+  --sys-color-steel: var(--ref-pallete-steel-40);
+
+}

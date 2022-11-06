@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: 'Pokedex',
+      script: [{
+        src: 'https://kit.fontawesome.com/5ad68aa6c9.js',
+      }]
     }
   },
   modules: ['@nuxtjs/tailwindcss'],

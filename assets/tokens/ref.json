@@ -1,0 +1,172 @@
+{
+  "ref": {
+    "pallete": {
+      "primary": {
+        "30": {
+          "value": "#e83817",
+          "type": "color"
+        },
+        "40": {
+          "value": "#ee5417",
+          "type": "color"
+        },
+        "50": {
+          "value": "#fa6a30",
+          "type": "color"
+        },
+        "60": {
+          "value": "#fd876d",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "value": "#141414",
+          "type": "color"
+        },
+        "10": {
+          "value": "#202020",
+          "type": "color"
+        },
+        "20": {
+          "value": "#464646",
+          "type": "color"
+        },
+        "30": {
+          "value": "#5a5a5a",
+          "type": "color"
+        },
+        "40": {
+          "value": "#737373",
+          "type": "color"
+        },
+        "50": {
+          "value": "#989898",
+          "type": "color"
+        },
+        "60": {
+          "value": "#b8b8b8",
+          "type": "color"
+        },
+        "70": {
+          "value": "#d4d4d4",
+          "type": "color"
+        },
+        "80": {
+          "value": "#eaeaea",
+          "type": "color"
+        },
+        "90": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "100": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "dark": {
+        "40": {
+          "value": "#737373",
+          "type": "color"
+        }
+      },
+      "dragon": {
+        "40": {
+          "value": "#53a4cf",
+          "type": "color"
+        }
+      },
+      "eletric": {
+        "40": {
+          "value": "#eed535",
+          "type": "color"
+        }
+      },
+      "fairy": {
+        "40": {
+          "value": "#fdb9e9",
+          "type": "color"
+        }
+      },
+      "fighting": {
+        "40": {
+          "value": "#d56723",
+          "type": "color"
+        }
+      },
+      "fire": {
+        "40": {
+          "value": "#e83817",
+          "type": "color"
+        }
+      },
+      "flying": {
+        "40": {
+          "value": "#3dc7ef",
+          "type": "color"
+        }
+      },
+      "ghost": {
+        "40": {
+          "value": "#7b62a3",
+          "type": "color"
+        }
+      },
+      "grass": {
+        "40": {
+          "value": "#9bcc50",
+          "type": "color"
+        }
+      },
+      "ground": {
+        "40": {
+          "value": "#f7de3f",
+          "type": "color"
+        }
+      },
+      "ice": {
+        "40": {
+          "value": "#51c4e7",
+          "type": "color"
+        }
+      },
+      "normal": {
+        "40": {
+          "value": "#a4acaf",
+          "type": "color"
+        }
+      },
+      "poison": {
+        "40": {
+          "value": "#b97fc9",
+          "type": "color"
+        }
+      },
+      "psychic": {
+        "40": {
+          "value": "#f366b9",
+          "type": "color"
+        }
+      },
+      "rock": {
+        "40": {
+          "value": "#a38c21",
+          "type": "color"
+        }
+      },
+      "water": {
+        "40": {
+          "value": "#4592c4",
+          "type": "color"
+        }
+      },
+      "steel": {
+        "40": {
+          "value": "#9eb7b8",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
