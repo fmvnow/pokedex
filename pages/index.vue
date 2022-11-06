@@ -15,7 +15,7 @@
     </div>
 
     <div
-      class="rounded-3xl text-on-colored bg-grass-40 overflow-hidden px-4 py-4 grid grid-cols-2 gap-x-3 max-w-xs shadow-lg"
+      class="rounded-3xl text-on-colored bg-grass overflow-hidden px-4 py-4 grid grid-cols-2 gap-x-3 max-w-xs shadow-lg"
     >
       <h2 class="text-3xl font-bold col-span-2 auto-rows-min">Bulbasaur</h2>
 
@@ -28,9 +28,9 @@
         <div
           class="bg-white/25 rounded-full absolute min-w-full min-h-full -right-1/4 -bottom-1/4 scale-[1.75] flex items-center justify-center"
         >
-          <div class="w-full bg-grass-40 h-3 absolute"></div>
+          <div class="w-full bg-grass h-3 absolute"></div>
           <div
-            class="bg-grass-40 rounded-full w-14 h-14 flex items-center justify-center relative"
+            class="bg-grass rounded-full w-14 h-14 flex items-center justify-center relative"
           >
             <div class="bg-white/25 rounded-full w-9 h-9"></div>
           </div>

@@ -7,5 +7,5 @@
 @tailwind utilities;
 
 body {
-  background-color: rgb(var(--neutral-50));
+  background-color: rgb(var(--sys-color-background));
 }
